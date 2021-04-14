@@ -27,6 +27,6 @@ https://www.facebook.com/yahboomtech
 +86 18682378128
 
 ### Technical support email: 
-market@yahboom.com
+support@yahboom.com
 ### Amazon support email: 
 amazon@yahboom.com
